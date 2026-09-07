@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#contributions">Contributions</a> &bull; <a href="#profile">Profile</a> &bull; <a href="#skills">Skills</a> &bull; <a href="#focus">Focus</a> &bull; <a href="#connect">Connect</a>
+  <a href="#contributions">Contributions</a> &bull; <a href="#profile">Profile</a> &bull; <a href="#skills">Skills</a> &bull; <a href="#connect">Connect</a>
 </p>
 
 <h1 align="center"><code style="color:#f0f6fc">ikky</code><code style="color:#39d353">@</code><code style="color:#f0f6fc">codes</code></h1>
@@ -110,28 +110,6 @@
     <span style="display:inline-block;margin:5px 6px;padding:7px 16px;border-radius:999px;border:1px solid rgba(36,150,237,0.45);background:rgba(36,150,237,0.12);color:#f0f6fc;;font-family:Consolas,Menlo,monospace;font-size:12.5px;letter-spacing:1px;">DOCKER</span>
     <span style="display:inline-block;margin:5px 6px;padding:7px 16px;border-radius:999px;border:1px solid rgba(240,80,51,0.45);background:rgba(240,80,51,0.12);color:#f0f6fc;;font-family:Consolas,Menlo,monospace;font-size:12.5px;letter-spacing:1px;">GIT</span>
     <span style="display:inline-block;margin:5px 6px;padding:7px 16px;border-radius:999px;border:1px solid rgba(240,246,252,0.35);background:rgba(240,246,252,0.08);color:#f0f6fc;;font-family:Consolas,Menlo,monospace;font-size:12.5px;letter-spacing:1px;">GITHUB</span>
-  </div>
-</div>
-
-<br/>
-
-<!-- ============================================================
-     CURRENT FOCUS
-     ============================================================ -->
-
-## Current Focus
-
-<div align="center" style="max-width:640px;margin:14px auto;border:1px solid #30363d;border-radius:16px;background:#161b22;padding:20px 26px;box-shadow:0 0 0 1px rgba(88,214,255,0.04),0 8px 24px rgba(0,0,0,0.35);">
-  <div style="text-align:center;margin-bottom:12px;">
-    <span style="font-family:Consolas,Menlo,monospace;font-size:12px;letter-spacing:3px;color:#58d6ff;font-weight:600;">&#9656; CURRENTLY EXPLORING</span>
-  </div>
-  <div style="text-align:center;font-family:Consolas,Menlo,monospace;font-size:13.5px;line-height:2;color:#f0f6fc;">
-    <span style="color:#39d353;">&#8594;&nbsp;</span>Advanced Machine Learning<br/>
-    <span style="color:#39d353;">&#8594;&nbsp;</span>Deep Learning<br/>
-    <span style="color:#39d353;">&#8594;&nbsp;</span>Generative AI<br/>
-    <span style="color:#39d353;">&#8594;&nbsp;</span>RAG Systems<br/>
-    <span style="color:#39d353;">&#8594;&nbsp;</span>MLOps<br/>
-    <span style="color:#39d353;">&#8594;&nbsp;</span>Building real-world AI applications<br/>
   </div>
 </div>
 
