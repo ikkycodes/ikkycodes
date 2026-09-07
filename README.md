@@ -131,4 +131,4 @@
 
 <br/>
 
-<p align="center"><code style="color:#30363d">generated with SVG-native animation &middot; no JavaScript &middot; updated weekly via GitHub Actions</code></p>
+
