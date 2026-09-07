@@ -86,8 +86,7 @@ def build() -> None:
     # ---- header ------------------------------------------------------------
     parts.append(text(GRAPH_X, 34, "CONTRIBUTION MATRIX", size=15, fill=PRIMARY_TEXT, weight="bold",
                       spacing="1"))
-    parts.append(text(width - GRAPH_X, 34, f"$ ./contributions.sh",
-                      size=12, fill=MUTED, anchor="end"))
+    # (clean header — no terminal prompt clutter)
     parts.append(text(GRAPH_X, 60, f"TOTAL  {total:,}", size=16, fill=GREEN, weight="bold"))
     parts.append(text(GRAPH_X + 240, 60, f"STREAK  {streak}d", size=14, fill=CYAN))
     parts.append(text(GRAPH_X, 82, f"LONGEST  {longest}d", size=13, fill=SECONDARY_TEXT))

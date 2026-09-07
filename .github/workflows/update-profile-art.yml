@@ -34,13 +34,11 @@ jobs:
       - name: Render profile artwork
         run: |
           python scripts/render_heatmap_svg.py
-          python scripts/make_ai_terminal.py
-          python scripts/make_ml_pipeline.py
           python scripts/make_info_card.py
 
       - name: Commit generated artwork
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore(profile): refresh contribution artwork [skip ci]"
-          file_pattern: "data/contributions.json ai-terminal.svg ml-pipeline.svg info-card.svg contrib-heatmap.svg"
+          file_pattern: "data/contributions.json info-card.svg contrib-heatmap.svg"
           skip_dirty_check: true
