@@ -1,0 +1,9 @@
+# local / unrelated files
+prep.py
+_probe.py
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
