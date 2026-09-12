@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#about"><b>About</b></a> &bull; <a href="#projects"><b>Projects</b></a> &bull;
+  <a href="#hi-im-ikjyot-singh"><b>About</b></a> &bull; <a href="#projects"><b>Projects</b></a> &bull;
   <a href="#skills"><b>Skills</b></a> &bull; <a href="#activity"><b>Activity</b></a> &bull; <a href="#connect"><b>Connect</b></a>
 </p>
 
@@ -13,16 +13,32 @@
      ABOUT
      ============================================================ -->
 
-## About
+## 👋 Hi, I'm Ikjyot Singh
 
-<p align="center">
-  <b>AI/ML Engineer</b> &middot; <b>B.Tech Computer Science</b><br/>
-  <i>I design and ship intelligent systems — ML pipelines, GenAI &amp; RAG apps, and data products end-to-end.</i>
-</p>
+🎓 **Computer Science Student | AI/ML Enthusiast**
 
-- 🔭 Currently building: **GenAI &amp; RAG applications**
-- 🌱 Learning: **MLOps, LLM engineering &amp; clean architecture**
-- 📫 Looking for: **AI/ML engineering roles, internships &amp; collabs**
+I’m focused on building practical solutions using **Machine Learning and Artificial Intelligence**.
+
+### 🔭 Currently Working On
+
+* Machine Learning & Deep Learning projects
+* Generative AI and Agentic AI
+* Real-world AI applications
+
+### 🌱 Currently Learning
+
+* Deep Learning
+* LLMs and Generative AI
+* AI Agents
+* Backend development with FastAPI
+
+### 🛠️ Tech Stack
+
+**Python • NumPy • Pandas • Scikit-learn • PyTorch • FastAPI • SQL • Git**
+
+### 🎯 Goal
+
+To grow as an **AI/ML Engineer** by continuously learning, building, and solving real-world problems.
 
 
 <!-- ============================================================
