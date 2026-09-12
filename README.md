@@ -24,13 +24,6 @@
 - 🌱 Learning: **MLOps, LLM engineering &amp; clean architecture**
 - 📫 Looking for: **AI/ML engineering roles, internships &amp; collabs**
 
-<br/>
-
-<p align="center">
-  <img src="./info-card.svg" width="100%" alt="AI/ML Engineer profile card">
-</p>
-
-<br/>
 
 <!-- ============================================================
      SKILLS
