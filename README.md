@@ -134,10 +134,3 @@ To grow as an **AI/ML Engineer** by continuously learning, building, and solving
 
 <p align="center"><a href="https://github.com/ikkycodes"><img src="assets/social/github.svg" width="32" height="32" alt="GitHub"></a>&nbsp;<a href="https://www.linkedin.com/in/ikjyot-singh06"><img src="assets/social/linkedin.svg" width="32" height="32" alt="LinkedIn"></a>&nbsp;<a href="mailto:realikky66@gmail.com"><img src="assets/social/email.svg" width="32" height="32" alt="Email"></a>&nbsp;<a href="https://www.kaggle.com/notikkyatall"><img src="assets/social/kaggle.svg" width="32" height="32" alt="Kaggle"></a></p>
 
-<p align="center">
-  <b>GitHub</b> &middot; <b>LinkedIn</b> (in/ikjyot-singh06) &middot; <b>realikky66@gmail.com</b> &middot; <b>Kaggle</b> (@notikkyatall)
-</p>
-
-<br/>
-
-<p align="center"><sub><code>ikky@codes</code> &middot; profile artwork regenerated weekly by GitHub Actions</sub></p>
