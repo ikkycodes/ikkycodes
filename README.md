@@ -15,7 +15,7 @@
 
 ## 👋 Hi, I'm Ikjyot Singh
 
-🎓 **Computer Science Student | AI/ML Enthusiast**
+🎓 **Computer Science Student | Generative AI Enthusiast**
 
 I’m focused on building practical solutions using **Machine Learning and Artificial Intelligence**.
 
@@ -38,7 +38,7 @@ I’m focused on building practical solutions using **Machine Learning and Artif
 
 ### 🎯 Goal
 
-To grow as an **AI/ML Engineer** by continuously learning, building, and solving real-world problems.
+To grow as an **Gen AI Engineer** by continuously learning, building, and solving real-world problems.
 
 
 <!-- ============================================================
