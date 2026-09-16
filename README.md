@@ -1,7 +1,5 @@
 
 <p align="center">
-  <a href="#hi-im-ikjyot-singh"><b>About</b></a> &bull;
-  <p align="center">
   <a href="#about"><b>About</b></a> &bull;
   <a href="#skills"><b>Skills</b></a> &bull;
   <a href="#projects"><b>Projects</b></a> &bull;
