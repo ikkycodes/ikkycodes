@@ -9,6 +9,14 @@
 
 <br/>
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/ikkycodes/ikkycodes/main/banner.svg"
+    width="780"
+    alt="ikkycodes — AI/ML Engineer"
+  />
+</p>
+
 <!-- ============================================================
      ABOUT
      ============================================================ -->
