@@ -35,6 +35,14 @@
 
 <br/>
 
+<p align="center">
+  <img
+    src="IMAGE_URL_HERE"
+    width="780"
+    alt="ikkycodes — AI/ML Engineer | GenAI | AI Agents"
+  />
+</p>
+
 <!-- ============================================================
      ABOUT
      ============================================================ -->
