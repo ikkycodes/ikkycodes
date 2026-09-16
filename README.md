@@ -1,13 +1,4 @@
-<p align="center">
-  <a href="#hi-im-ikjyot-singh"><b>About</b></a> &bull; <a href="#projects"><b>Projects</b></a> &bull;
-  <a href="#skills"><b>Skills</b></a> &bull; <a href="#activity"><b>Activity</b></a> &bull; <a href="#connect"><b>Connect</b></a>
-</p>
 
-<p align="center">
-  <img src="./banner.svg" width="780" height="168" alt="ikkycodes — AI/ML Engineer banner">
-</p>
-
-<br/>
 <p align="center">
   <a href="#hi-im-ikjyot-singh"><b>About</b></a> &bull;
   <a href="#projects"><b>Projects</b></a> &bull;
