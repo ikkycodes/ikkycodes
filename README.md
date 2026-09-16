@@ -17,6 +17,24 @@
 
 <br/>
 
+<p align="center">
+  <a href="#hi-im-ikjyot-singh"><b>About</b></a> &bull;
+  <a href="#projects"><b>Projects</b></a> &bull;
+  <a href="#skills"><b>Skills</b></a> &bull;
+  <a href="#activity"><b>Activity</b></a> &bull;
+  <a href="#connect"><b>Connect</b></a>
+</p>
+
+<p align="center">
+  <img
+    src="https://pikwizard.com/photo/coding-developer-at-dual-monitor-workstation-with-neon-data-stream-visualizing-ai-insights/b4a46c90bd74d4a94a688d0a39f25993/"
+    width="780"
+    alt="ikkycodes — AI/ML Engineer"
+  />
+</p>
+
+<br/>
+
 <!-- ============================================================
      ABOUT
      ============================================================ -->
