@@ -1,12 +1,13 @@
 
 <p align="center">
   <a href="#hi-im-ikjyot-singh"><b>About</b></a> &bull;
-  <a href="#projects"><b>Projects</b></a> &bull;
+  <p align="center">
+  <a href="#about"><b>About</b></a> &bull;
   <a href="#skills"><b>Skills</b></a> &bull;
+  <a href="#projects"><b>Projects</b></a> &bull;
   <a href="#activity"><b>Activity</b></a> &bull;
   <a href="#connect"><b>Connect</b></a>
 </p>
-
 <p align="center">
   <img
     src="https://miro.medium.com/v2/resize%3Afit%3A1400/1%2AsWQ2_NDscOzdH_LHx4eRCA.png"
