@@ -1,53 +1,9 @@
 
 <p align="center">
-  <a href="#about"><b>About</b></a> &bull;
   <a href="#skills"><b>Skills</b></a> &bull;
   <a href="#projects"><b>Projects</b></a> &bull;
-  <a href="#activity"><b>Activity</b></a> &bull;
   <a href="#connect"><b>Connect</b></a>
 </p>
-<p align="center">
-  <img
-    src="https://miro.medium.com/v2/resize%3Afit%3A1400/1%2AsWQ2_NDscOzdH_LHx4eRCA.png"
-    width="780"
-    alt="ikkycodes — AI/ML Engineer | GenAI | AI Agents"
-  />
-</p>
-
-<br/>
-
-
-<!-- ============================================================
-     ABOUT
-     ============================================================ -->
-
-## 👋 Hi, I'm Ikjyot Singh
-
-🎓 **Computer Science Student | Generative AI Enthusiast**
-
-I’m focused on building practical solutions using **Machine Learning and Artificial Intelligence**.
-
-### 🔭 Currently Working On
-
-* Machine Learning & Deep Learning projects
-* Generative AI and Agentic AI
-* Real-world AI applications
-
-### 🌱 Currently Learning
-
-* Deep Learning
-* LLMs and Generative AI
-* AI Agents
-* Backend development with FastAPI
-
-### 🛠️ Tech Stack
-
-**Python • NumPy • Pandas • Scikit-learn • PyTorch • FastAPI • SQL • Git**
-
-### 🎯 Goal
-
-To grow as an **Gen AI Engineer** by continuously learning, building, and solving real-world problems.
-
 
 <!-- ============================================================
      SKILLS
@@ -115,20 +71,6 @@ To grow as an **Gen AI Engineer** by continuously learning, building, and solvin
 | <img src="assets/projects/movie.svg" width="161" height="30" alt="Movie Recommender"> | [Movie Recommender](https://github.com/ikkycodes/Movie-Recommender-system) | Content-based top-5 movie recommendations | `NLP · Scikit-learn · Streamlit` |
 | <img src="assets/projects/resume.svg" width="154" height="30" alt="Resume Screening"> | [Resume Screening](https://github.com/ikkycodes/Resume-Screening-App) | Resume parsing, skill extraction & candidate matching | `Python · NLP · Streamlit` |
 | <img src="assets/projects/trendpulse.svg" width="112" height="30" alt="TrendPulse"> | [TrendPulse](https://github.com/ikkycodes/TrendPulse-ikky) | Trend pipeline: collect → process → analyze → visualize | `Python · Pandas · Matplotlib` |
-
-<br/>
-
-<!-- ============================================================
-     ACTIVITY
-     ============================================================ -->
-
-## Activity
-
-<p align="center">
-  <img src="./contrib-heatmap.svg" width="100%" alt="GitHub contribution heatmap">
-</p>
-
-<p align="center"><sub>real contribution data &middot; auto-refreshed every Sunday</sub></p>
 
 <br/>
 
