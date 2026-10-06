@@ -1,7 +1,6 @@
 
 <p align="center">
   <a href="#skills"><b>Skills</b></a> &bull;
-  <a href="#projects"><b>Projects</b></a> &bull;
   <a href="#connect"><b>Connect</b></a>
 </p>
 
@@ -52,25 +51,6 @@
   <p><b>&#9656; BACKEND / DEPLOYMENT</b></p>
   <img src="assets/skills/fastapi.svg" width="93" height="30" alt="fastapi"> <img src="assets/skills/streamlit.svg" width="108" height="30" alt="streamlit"> <img src="assets/skills/docker.svg" width="86" height="30" alt="docker"> <img src="assets/skills/git.svg" width="64" height="30" alt="git"> <img src="assets/skills/github.svg" width="86" height="30" alt="github">
 </div>
-
-<br/>
-
-<!-- ============================================================
-     PROJECTS
-     ============================================================ -->
-
-## Projects
-
-<br/>
-
-| | Project | What it does | Built with |
-|---|---|---|---|
-| <img src="assets/projects/churn.svg" width="112" height="30" alt="ChurnGaurd"> | [ChurnGaurd](https://github.com/ikkycodes/ChurnGaurd) | AI-powered customer churn prediction app | `Python · ML · Streamlit` |
-| <img src="assets/projects/datagenie.svg" width="105" height="30" alt="DataGenie"> | [DataGenie](https://github.com/ikkycodes/DataGenie-Natural-Language-Data-Analyst) | Natural Language Data Analyst — chat with your dataset | `Python · GenAI · LLMs` |
-| <img src="assets/projects/flight.svg" width="203" height="30" alt="Flight Price Prediction"> | [Flight Price Prediction](https://github.com/ikkycodes/Flight-Price-Prediction) | Price forecasting with Random Forest + full EDA | `Python · Scikit-learn · Jupyter` |
-| <img src="assets/projects/movie.svg" width="161" height="30" alt="Movie Recommender"> | [Movie Recommender](https://github.com/ikkycodes/Movie-Recommender-system) | Content-based top-5 movie recommendations | `NLP · Scikit-learn · Streamlit` |
-| <img src="assets/projects/resume.svg" width="154" height="30" alt="Resume Screening"> | [Resume Screening](https://github.com/ikkycodes/Resume-Screening-App) | Resume parsing, skill extraction & candidate matching | `Python · NLP · Streamlit` |
-| <img src="assets/projects/trendpulse.svg" width="112" height="30" alt="TrendPulse"> | [TrendPulse](https://github.com/ikkycodes/TrendPulse-ikky) | Trend pipeline: collect → process → analyze → visualize | `Python · Pandas · Matplotlib` |
 
 <br/>
 
